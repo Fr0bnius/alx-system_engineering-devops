@@ -1,4 +1,2 @@
 #!bin/bash
-ls -al
-grep
-ls -a
+ls -al grep ls -a
